@@ -11,4 +11,5 @@
 
 ### A few exercise items programmed using Shell-scripting / bash including the below
 
-1. Simple Encryption/Decryption logic 
+1. Simple Encryption/Decryption logic
+2. Pyramidal stars printing 
