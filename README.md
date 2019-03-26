@@ -13,3 +13,4 @@
 
 1. Simple Encryption/Decryption logic
 2. Pyramidal stars printing 
+3. Simple calculator
