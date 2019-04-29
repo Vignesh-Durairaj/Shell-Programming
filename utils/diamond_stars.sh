@@ -1,7 +1,7 @@
 #!/bin/bash
 # GNU bash, version 4.3.46
 
-# clear
+clear
 
 printf "Enter a the max size	: "
 read width
@@ -26,7 +26,6 @@ then
 			fi
 		done
 		counter=$(($counter + 1))
-		# echo $startPos $endPos $(($rowMedian-$counter)) $counter $rowMedian
 		if [[ $evenAdditive == 1 || $(($counter!=$(($rowMedian + 1)))) == 1 ]];
 		then
 			if [[ $(($(($rowMedian-$counter))>=0)) == 1 ]];
