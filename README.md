@@ -7,7 +7,7 @@
 
 # Shell / Bash Programming Exercises
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b097280f0805466fa55167e99746db34)](https://app.codacy.com/app/Vignesh-Durairaj/Shell-Programming-Excercises?utm_source=github.com&utm_medium=referral&utm_content=Vignesh-Durairaj/Shell-Programming-Excercises&utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b097280f0805466fa55167e99746db34)](https://app.codacy.com/app/Vignesh-Durairaj/Shell-Programming-Excercises?utm_source=github.com&utm_medium=referral&utm_content=Vignesh-Durairaj/Shell-Programming-Excercises&utm_campaign=Badge_Grade_Dashboard) ![Twitter Follow](https://img.shields.io/twitter/follow/vigneshdurairaj.svg?style=social)
 
 ### A few exercise items programmed using Shell-scripting / bash including the below
 
